@@ -1,0 +1,11 @@
+.yellow{ border: 2px solid yellow;}
+.red{ border: 2px solid red;}
+.blue{ border: 2px solid blue;}
+.green{ border: 2px solid green;}
+.black{ border: 2px solid black;}
+
+.d-yellow{ border: 2px dotted yellow;}
+.d-red{ border: 2px dotted red;}
+.d-blue{ border: 2px dotted blue;}
+.d-green{ border: 2px dotted green;}
+.d-black{ border: 2px dotted black;}
